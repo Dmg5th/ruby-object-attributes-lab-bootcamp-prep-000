@@ -7,6 +7,14 @@ class Dog
   def name
     @name
   end
+
+  def breed=(breed)
+  @breed = breed
+  end
+  
+  det breed 
+  @breed 
+  end 
 end 
 
 
